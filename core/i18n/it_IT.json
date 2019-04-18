@@ -1,0 +1,42 @@
+{
+    "plugins/comudp/plugin_info/info.xml": {
+        "Plugin pour commander un automate via le protocole ComUDP": "Plugin pour commander un automate via le protocole ComUDP",
+        "Vous devez également installer le module pyComUDPTCP via la commande : sudo pip install pyComUDPTCP": "Vous devez également installer le module pyComUDPTCP via la commande : sudo pip install pyComUDPTCP"
+    },
+    "plugins/comudp/desktop/php/comudp.php": {
+        "Ajouter un équipement": "Ajouter un équipement",
+        "Arreter ComUDP": "Arreter ComUDP",
+        "Rechercher": "Cerca",
+        "Mes ComUDP": "Mes ComUDP",
+        "Général": "Generale",
+        "Nom de l'équipement comudp": "Nom de l'équipement comudp",
+        "Objet parent": "Objet parent",
+        "Aucun": "Nessuno",
+        "Catégorie": "Categoria",
+        "Activer": "Attiva",
+        "Visible": "Visibile",
+        "Adresse IP": "Adresse IP",
+        "Port": "Port",
+        "Unit ID": "Unit ID",
+        "Polling en secondes": "Polling en secondes",
+        "polling": "polling",
+        " Ajouter une E/S comudp": "Ajouter une E/S comudp",
+        "Nom": "Nome",
+        "Type": "Type",
+        "Type E/S": "Type E/S",
+        "Adresse": "Indirizzo",
+        "Parametre(s)": "Parametre(s)",
+        "Options": "Options",
+        "Supprimer": "Elimina",
+        "Sauvegarder": "Salva",
+        "Démarrer ComUDP": "Démarrer ComUDP",
+        "Garder la connexion ouverte": "Garder la connexion ouverte"
+    },
+    "plugins/comudp/desktop/js/comudp.js": {
+        "Rechercher équipement": "Rechercher équipement",
+        "Valeur de retour (optionnel)": "Valeur de retour (optionnel)",
+        "Unité": "Unité",
+        "Min": "Min",
+        "Max": "Max"
+    }
+}

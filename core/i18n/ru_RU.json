@@ -1,0 +1,42 @@
+{
+    "plugins/comudp/plugin_info/info.xml": {
+        "Plugin pour commander un automate via le protocole ComUDP": "Плагин для управления PLC по протоколу ComUDP",
+        "Vous devez également installer le module pyComUDPTCP via la commande : sudo pip install pyComUDPTCP": "Вы также должны установить модуль pyComUDPTCP, выполнив: sudo pip install pyComUDPTCP"
+    },
+    "plugins/comudp/desktop/php/comudp.php": {
+        "Ajouter un équipement": "Добавить оборудование",
+        "Arreter ComUDP": "Остановить ComUDP",
+        "Rechercher": "Искать",
+        "Mes ComUDP": "Mes ComUDP",
+        "Général": "Главная",
+        "Nom de l'équipement comudp": "Имя ComUDP оборудования",
+        "Objet parent": "Родительский объект",
+        "Aucun": "Нет",
+        "Catégorie": "Категория",
+        "Activer": "Активировать",
+        "Visible": "Видимый",
+        "Adresse IP": "IP Адрес ",
+        "Port": "Порт",
+        "Unit ID": "Unit ID",
+        "Polling en secondes": "Опрос сек",
+        "polling": "опрос",
+        " Ajouter une E/S comudp": "Добавить ComUDP I / O",
+        "Nom": "Имя",
+        "Type": "Тип",
+        "Type E/S": "Тип ввода / вывода",
+        "Adresse": "Адрес",
+        "Parametre(s)": "Параметр (ы)",
+        "Options": "Опции",
+        "Supprimer": "Удалить",
+        "Sauvegarder": "Сохранить",
+        "Démarrer ComUDP": "Démarrer ComUDP",
+        "Garder la connexion ouverte": "Garder la connexion ouverte"
+    },
+    "plugins/comudp/desktop/js/comudp.js": {
+        "Rechercher équipement": "Поиск оборудования",
+        "Valeur de retour (optionnel)": "Возврат значения (необязательно)",
+        "Unité": "Устройство",
+        "Min": "Мин",
+        "Max": "Макс"
+    }
+}

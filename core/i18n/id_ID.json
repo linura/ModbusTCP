@@ -1,0 +1,42 @@
+{
+    "plugins/comudp/plugin_info/info.xml": {
+        "Plugin pour commander un automate via le protocole ComUDP": "Plugin pour commander un automate via le protocole ComUDP",
+        "Vous devez également installer le module pyComUDPTCP via la commande : sudo pip install pyComUDPTCP": "Vous devez également installer le module pyComUDPTCP via la commande : sudo pip install pyComUDPTCP"
+    },
+    "plugins/comudp/desktop/php/comudp.php": {
+        "Ajouter un équipement": "Tambahan peralatan",
+        "Arreter ComUDP": "Arreter ComUDP",
+        "Rechercher": "Mencari",
+        "Mes ComUDP": "Mes ComUDP",
+        "Général": "Umum",
+        "Nom de l'équipement comudp": "Nom de l'équipement comudp",
+        "Objet parent": "Objek induk",
+        "Aucun": "Tak ada",
+        "Catégorie": "Kategori",
+        "Activer": "Mengaktifkan",
+        "Visible": "Terlihat",
+        "Adresse IP": "Adresse IP",
+        "Port": "Port",
+        "Unit ID": "Unit ID",
+        "Polling en secondes": "Polling en secondes",
+        "polling": "polling",
+        " Ajouter une E/S comudp": "Ajouter une E/S comudp",
+        "Nom": "Nama",
+        "Type": "Jenis",
+        "Type E/S": "Type E/S",
+        "Adresse": "Adresse",
+        "Parametre(s)": "Parametre(s)",
+        "Options": "Pilihan",
+        "Supprimer": "Menghapus",
+        "Sauvegarder": "Menyimpan",
+        "Démarrer ComUDP": "Démarrer ComUDP",
+        "Garder la connexion ouverte": "Garder la connexion ouverte"
+    },
+    "plugins/comudp/desktop/js/comudp.js": {
+        "Rechercher équipement": "Peralatan pencarian",
+        "Valeur de retour (optionnel)": "Valeur de retour (optionnel)",
+        "Unité": "Satuan",
+        "Min": "Min",
+        "Max": "Max"
+    }
+}
