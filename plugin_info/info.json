@@ -1,7 +1,7 @@
 {
 	"id" : "ModbusTCP",
 	"name" : "Modbus TCP",
-	"description" : "Plugin pour commander un automate via le protocole modbus",
+	"description" : "Plugin pour commander un automate(mode serveur) via le protocole modbus",
 	"icon" : "jeedom-lumiere-on",
 	"licence" : "AGPL",
 	"author" : "Pascal Brisseau",
