@@ -100,8 +100,9 @@ connexion = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 try:
 	connexion.bind(('', port))
-except socket.error:
+except socket.error, msg:
 	logging.error("Daemon : La connexion a échoué.")
+	logging.error("Daemon : %s"%msg) #permet l'affichage de l'erreur retournee par la connexion
 	sys.exit()
 
 logging.debug("Daemon : Polling : "+str(polling))
